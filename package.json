@@ -1,0 +1,26 @@
+{
+  "name": "ts_learning",
+  "version": "1.0.0",
+  "description": "TS learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenphiikhanh/PJTS.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Khanhdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenphiikhanh/PJTS/issues"
+  },
+  "homepage": "https://github.com/nguyenphiikhanh/PJTS#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "ts-jest": "^29.1.0"
+  }
+}
